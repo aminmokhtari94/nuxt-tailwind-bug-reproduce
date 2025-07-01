@@ -1,0 +1,7 @@
+packages:
+  - apps/*
+  - layers/*
+onlyBuiltDependencies:
+  - '@parcel/watcher'
+  - '@tailwindcss/oxide'
+  - esbuild
